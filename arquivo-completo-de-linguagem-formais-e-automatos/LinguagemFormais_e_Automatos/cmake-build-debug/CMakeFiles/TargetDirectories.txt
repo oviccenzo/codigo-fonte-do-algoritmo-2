@@ -1,0 +1,3 @@
+/Users/rlresende/LinguagemFormais_e_Automatos/cmake-build-debug/CMakeFiles/LinguagemFormais.dir
+/Users/rlresende/LinguagemFormais_e_Automatos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rlresende/LinguagemFormais_e_Automatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
