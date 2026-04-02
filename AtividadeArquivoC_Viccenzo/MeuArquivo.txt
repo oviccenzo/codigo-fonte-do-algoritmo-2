@@ -1,0 +1,1 @@
+Este é um exemplo de fprintf(): 42 3.140000
