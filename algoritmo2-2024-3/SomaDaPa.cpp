@@ -7,19 +7,19 @@ int main() {
     printf("Digite o primeiro termo da PA: ");
     scanf("%d", &a1);
 
-    printf("Digite o número do termo da PA: ");
+    printf("Digite o nÃºmero do termo da PA: ");
     scanf("%d", &n);
 
-    printf("Digite a razão da PA: ");
+    printf("Digite a razÃ£o da PA: ");
     scanf("%d", &r);
 
-    // Calcula o último termo da PA
+    // Calcula o Ãºltimo termo da PA
     an = a1 + (n - 1) * r;
 
     // Calcula a soma dos n primeiros termos
     soma = (n / 2.0) * (a1 + an);
 
-    printf("A soma dos %d primeiros termos da PA é: %.2f\n", n, soma);
+    printf("A soma dos %d primeiros termos da PA Ã©: %.2f\n", n, soma);
 
     return 0;
 }
