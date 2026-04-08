@@ -8,7 +8,7 @@ int main() {
         scanf("%d", &n);
 
         if (n < 0) {
-            // Se o número for negativo, sai do laço
+            // Se o nÃºmero for negativo, sai do laÃ§o
             break;
         }
 
@@ -25,11 +25,11 @@ int main() {
         }
     }
 
-    // Exibe os resultados após o laço
-    printf("A quantidade de números entre 0 e 25 é: %d\n", c1);
-    printf("A quantidade de números entre 26 e 50 é: %d\n", c2);
-    printf("A quantidade de números entre 51 e 75 é: %d\n", c3);
-    printf("A quantidade de números entre 76 e 100 é: %d\n", c4);
+    // Exibe os resultados apÃ³s o laÃ§o
+    printf("A quantidade de nÃºmeros entre 0 e 25 Ã©: %d\n", c1);
+    printf("A quantidade de nÃºmeros entre 26 e 50 Ã©: %d\n", c2);
+    printf("A quantidade de nÃºmeros entre 51 e 75 Ã©: %d\n", c3);
+    printf("A quantidade de nÃºmeros entre 76 e 100 Ã©: %d\n", c4);
 
     return 0;
 }
