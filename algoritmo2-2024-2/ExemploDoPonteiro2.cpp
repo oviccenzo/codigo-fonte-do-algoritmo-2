@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
-int n, i; // Note que o array n„o foi declarado previamente!
+int n, i; // Note que o array n√£o foi declarado previamente!
 printf("Digite o tamanho do array: ");
 scanf("%d", &n);
 int *arr = (int *)malloc(n * sizeof(int));
 if (arr == NULL) {
-printf("Falha na alocaÁ„o de memÛria.\n");
+printf("Falha na aloca√ß√£o de mem√≥ria.\n");
 return 1;
 }
 printf("Digite os elementos do array:\n");
