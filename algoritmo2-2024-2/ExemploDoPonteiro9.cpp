@@ -3,19 +3,19 @@
 
 int main(void)
 {
-  //valor È a vari·vel que
-  //ser· apontada pelo ponteiro
+  //valor √© a vari√°vel que
+  //ser√° apontada pelo ponteiro
   int valor = 27;
   
-  //declaraÁ„o de vari·vel ponteiro
+  //declara√ß√£o de vari√°vel ponteiro
   int *ptr;
   
-  //atribuindo o endereÁo da vari·vel valor ao ponteiro
+  //atribuindo o endere√ßo da vari√°vel valor ao ponteiro
   ptr = &valor;
   
   printf("Utilizando ponteiros\n\n");
   printf ("Conteudo da variavel valor: %d\n", valor);
-  printf ("EndereÁo da variavel valor: %x \n", &valor);
+  printf ("Endere√ßo da variavel valor: %x \n", &valor);
   printf ("Conteudo da variavel ponteiro ptr: %x", ptr);
   
   getch();
