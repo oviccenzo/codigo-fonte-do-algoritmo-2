@@ -22,10 +22,10 @@ int main() {
     } else if (imc >= 35 && imc < 39.9) {
         printf("Obesidade grau 2 (severa)\n");
     } else if (imc >= 40) {
-        printf("Obesidade grau 3 (mórbida)\n");
+        printf("Obesidade grau 3 (mÃ³rbida)\n");
     }
 
-    printf("O resultado do IMC é: %.2f\n", imc);
+    printf("O resultado do IMC Ã©: %.2f\n", imc);
 
     return 0;
 }
