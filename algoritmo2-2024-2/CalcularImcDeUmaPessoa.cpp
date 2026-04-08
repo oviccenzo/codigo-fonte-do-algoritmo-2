@@ -1,7 +1,9 @@
+//20/09/24 15:16
+
 #include <stdio.h>
 int main(){
 	
-	float altura,peso;20/09/24 15:16
+	float altura,peso;
 	
 	printf("Calcular o peso de uma pessoa: ");
 	scanf("%f",&peso);
