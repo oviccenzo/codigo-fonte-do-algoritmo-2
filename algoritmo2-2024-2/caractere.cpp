@@ -25,10 +25,10 @@ int main() {
     printf("Digite um ano: ");
     scanf("%d", &ano);
     if (car1.ano >= ano) {
-        printf("Carro 1 é do ano %d ou mais novo.\n", car1.ano);
+        printf("Carro 1 Ã© do ano %d ou mais novo.\n", car1.ano);
     }
     if (car2.ano >= ano) {
-        printf("Carro 2 é do ano %d ou mais novo.\n", car2.ano);
+        printf("Carro 2 Ã© do ano %d ou mais novo.\n", car2.ano);
     }
 
     char marca[15];
